@@ -15,7 +15,19 @@ knitr::opts_chunk$set(echo = TRUE)
 r <- 0.5
 Area <- pi*r^2
 ```
+
 ```{r}
 Lado <- 3
 AreaCuadrado <- Lado^2
 ```
+
+```{r}
+b <- 5
+h <- 9
+AreaTriangulo <- (b*h)/2
+```
+
+```{r}
+AreaRectangulo <- b*h
+```
+
