@@ -30,4 +30,3 @@ AreaTriangulo <- (b*h)/2
 ```{r}
 AreaRectangulo <- b*h
 ```
-
